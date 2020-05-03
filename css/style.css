@@ -15,7 +15,7 @@ section {
   padding: 100px 0;
 }
 
-.about-akanian {
+.flex-container {
   background: url("/images/Akan-People.jpg") rgba(0, 0, 0, 0.5);
   background-size: cover;
   width: 100%;
