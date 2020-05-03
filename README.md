@@ -24,6 +24,10 @@ No Known issues yet. Please let me know of any issues through handles below.
 
 ## Support and contact details
 elijahk59@gmail.com
+
+## Live site
+ https://elijahk59.github.io/yourAkanianName/
+ 
 ### License
 *MIT*
 Copyright (c) {2020} **Elijah Kithome**
