@@ -15,26 +15,6 @@ section {
   padding: 100px 0;
 }
 
-.flex-container {
-  background: url("/images/Akan-People.jpg") rgba(0, 0, 0, 0.5);
-  background-size: cover;
-  width: 100%;
-  height: 40vh;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-blend-mode: multiply;
-}
-.akanian {
-  width: 80px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 50%;
-}
-
-.header {
-  display: flex;
-}
 .contact {
   font-size: 18px;
   color: rgb(23, 7, 114);
