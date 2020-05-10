@@ -37,19 +37,13 @@ section {
 }
 
 .about-akanian {
-  background: url("images/akanian.JPEG") rgba(0, 0, 0, 0.5);
-  background-size: cover;
-  width: 100%;
-  height: 40vh;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-blend-mode: multiply;
+
 }
 .welcome {
+  position: relative;
   width: 80px;
   height: 80px;
-  object-fit: cover;
+  
  
 }
 .bear-cub {
@@ -60,4 +54,15 @@ section {
   background-position: center;
   background-repeat: no-repeat;
   background-blend-mode: multiply;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  body {
+      background-color: black;
+      color: white;
+  }
+}
+@media screen and (min-width: 768px) {
+body {
+  background-color: rgb(231, 243, 240);
+}
 }
