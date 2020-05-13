@@ -2,7 +2,17 @@ html {
   margin: 0;
   height: 100%;
 }
-
+body {
+  background-color: rgb(76, 186, 223);
+}
+h1 {
+  color: rgb(71, 231, 151);
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 ul {
   list-style-type: none;
 }
@@ -10,24 +20,9 @@ ul li {
   display: inline-block;
 }
 
-section {
-  padding: 100px 0;
-}
 
 
-body {
-  background-color: rgb(76, 186, 223);
-}
 
-h1 {
-  color: rgb(71, 231, 151);
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
 .center {
   position: absolute;
   top: 50%;
@@ -38,28 +33,11 @@ p {
   font-size: 18px;
   color: rgb(23, 7, 114);
 }
-section {
-  padding: 100px 0;
-}
-
-.about-akanian {
-
-}
 .welcome {
   position: relative;
   width: 80px;
   height: 80px;
-  
- 
-}
-.bear-cub {
-  background-size: cover;
-  width: 100%;
-  height: 40vh;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-blend-mode: multiply;
+  float: left;
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
   body {
